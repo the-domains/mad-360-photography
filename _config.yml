@@ -3,9 +3,9 @@ favicon: null
 name: Mad 360 Photography
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 0.8153457
   lightness: 1
-  saturation: 0.4123103
+  saturation: 0.9451939
   rhythmicContrast: 0.2875211
   brandColors:
-    - '#fffeff'
-    - '#060606'
-    - '#a0a0a0'
-    - '#747474'
-    - '#ca782c'
+    - '#FEFEFE'
+    - '#303938'
+    - '#D7E2DE'
+    - '#E0BC9B'
+    - '#B4916E'
 typography_spectrum: 0.9818514576181769
